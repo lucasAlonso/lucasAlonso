@@ -24,6 +24,17 @@
   
   <details>
   <summary><b>:computer: &nbsp;Tech Expertise</b></summary>
+  <summary><b>:star_struck:&nbsp;My Acamica's Web Dev projects</b></summary>
+  <br/>
+    <a href="https://github.com/lucasAlonso/acamicaPodcast">:chopsticks: Landing Page using HTML + CSS only </a><b> <br/>
+    <a href="https://github.com/lucasAlonso/gifOsAcamica">:hourglass:  first Js project</a><b><br/>
+    <a href="https://github.com/lucasAlonso/apiFoodBackend">:motor_scooter:  RESTFUL API </a><b><br/>
+    
+  </details>
+  
+  <details>
+  <summary><b>:computer: &nbsp;Tech Expertise</b></summary>  
+    
   <br/>
 
 
