@@ -2,7 +2,7 @@
 
 ### About me :mate:
 
-:telescope: FrontEnd Developer 
+:telescope: FrontEnd Developer  
 :screwdriver: Self-taught coder with a good sense of humor  
 :gear: It all started with a Full Stack Web Development course at ACAMICA back in 2019.  
 :toolbox: Now fully commited to find my first Full Time Development job  
